@@ -4,8 +4,8 @@
 
 Point::Point()
 {
-	this->x = 0;
-	this->y = 0;
+	x = 0;
+	y = 0;
 }
 
 Point::Point(double x, double y)
